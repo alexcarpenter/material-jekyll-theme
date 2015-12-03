@@ -1,0 +1,8 @@
+<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+  <div class="c-navigation__container u-container">
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="/">Home</a>
+    <a class="c-navigation__item {% if page.url == '/articles/' %}is-active{% endif %}" href="/articles/">Articles</a>
+    <a class="c-navigation__item {% if page.url == '/about/' %}is-active{% endif %}" href="/about/">About</a>
+    <a class="c-navigation__item {% if page.title == '/contact/' %}is-active{% endif %}" href="/contact/">Contact</a>
+  </div>
+</nav>
