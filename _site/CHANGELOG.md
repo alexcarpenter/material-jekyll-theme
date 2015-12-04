@@ -1,3 +1,0 @@
-# Change Log
-
-## [Unreleased]

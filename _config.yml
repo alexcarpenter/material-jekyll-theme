@@ -9,12 +9,12 @@ baseurl: "/material-jekyll-theme"
 url: "http://alexcarpenter.me"
 fixedNav: 'true' # true or false
 theme: grey # green, blue, orange, purple, grey
-twitterUsername: jekyllrb
-githubUsername:  jekyll
+twitterUsername: hybrid_alex
+githubUsername: alexcarpenter
 
 # Build settings
 markdown: kramdown
 include: [_pages]
-exclude: [_site]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
