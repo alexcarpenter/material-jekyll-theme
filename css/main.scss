@@ -25,6 +25,14 @@
   'components/buttons',
   'components/footer';
 
+// Themes
+@import
+  'themes/blue',
+  'themes/green',
+  'themes/grey',
+  'themes/orange',
+  'themes/purple';
+
 // Vendor
 @import
   'vendor/syntax-highlighting';

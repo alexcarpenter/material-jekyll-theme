@@ -8,7 +8,7 @@ description: >
 baseurl: "/material-jekyll-theme"
 url: "http://alexcarpenter.me"
 fixedNav: 'true' # true or false
-theme: purple # green, blue, orange, purple, grey
+theme: grey # green, blue, orange, purple, grey
 twitterUsername: jekyllrb
 githubUsername:  jekyll
 

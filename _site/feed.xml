@@ -4,10 +4,10 @@
     <title>Alex Carpenter</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2015 20:02:14 -0500</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2015 20:02:14 -0500</lastBuildDate>
+    <link>http://alexcarpenter.me/material-jekyll-theme/</link>
+    <atom:link href="http://alexcarpenter.me/material-jekyll-theme/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Dec 2015 19:12:05 -0500</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2015 19:12:05 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 01 Dec 2015 18:52:21 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/01/welcome-to-jekyll.html</guid>
+        <link>http://alexcarpenter.me/material-jekyll-theme/jekyll/update/2015/12/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://alexcarpenter.me/material-jekyll-theme/jekyll/update/2015/12/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
