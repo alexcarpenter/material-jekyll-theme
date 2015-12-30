@@ -1,6 +1,8 @@
 # material-jekyll-theme
 [Demo](http://alexcarpenter.me/material-jekyll-theme)
 
+![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
+
 ## Getting started
 1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
 2. `cd material-jekyll-theme`
