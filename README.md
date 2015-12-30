@@ -1,4 +1,5 @@
 # material-jekyll-theme
+[Demo](http://alexcarpenter.me/material-jekyll-theme)
 
 ## Getting started
 1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
